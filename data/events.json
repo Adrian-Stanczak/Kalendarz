@@ -1,40 +1,8 @@
 [
     {
-        "id": 1,
-        "name": "Mark",
-        "date": "123123",
-        "event": "asdadasd"
-    },
-    {
-        "id": 4,
-        "name": "Mark",
-        "date": "12312",
+        "id": 84,
+        "name": "Asdasd",
+        "date": "1231",
         "event": "asdasd"
-    }
-][
-    {
-        "id": 1,
-        "name": "Mark",
-        "date": "123123",
-        "event": "asdadasd"
-    },
-    {
-        "id": 4,
-        "name": "Mark",
-        "date": "12312",
-        "event": "asdasd"
-    },
-    {
-        "id": 19,
-        "name": "Mark",
-        "date": "123123",
-        "event": "asdadas"
-    }
-][
-    {
-        "id": 1,
-        "name": "Maek",
-        "date": "2131312",
-        "event": "asdasdas"
     }
 ]
